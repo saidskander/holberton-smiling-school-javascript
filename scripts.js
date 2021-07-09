@@ -11,9 +11,7 @@ $(document).ready(function () {
             firstcarousel = "active";
           }
           $("#loader").hide();
-          $(
-            "#carousel-items"
-          ).append(`<div class="carousel-item ${firstcarousel} firstcarousel">
+          $("#carousel-items").append(`<div class="carousel-item ${firstcarousel} firstcarousel">
           <div class="container mt-5 mb-5">
             <div class="row row-cols-sm-4 mb-5 mt-5">
               <div class="col text-xl-center">
