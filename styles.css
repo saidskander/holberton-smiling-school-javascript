@@ -1,24 +1,3 @@
-body .first {
-  background-image: url("images/pic_1.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-body .pricing {
-  background-image: url("images/pic_2.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-}
-
-body .pricing1 {
-  background-image: url("images/pic_2.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  margin-bottom: -11%;
-}
-
 .carousel {
   margin-top: -2%;
 }
@@ -106,6 +85,29 @@ body .pricing1 {
 .membership-section span {
   color: #c271ff;
 }
+
+body .first {
+  background-image: url("images/pic_1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body .pricing {
+  background-image: url("images/pic_2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+body .pricing1 {
+  background-image: url("images/pic_2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: -11%;
+}
+
+
 
 .membership-section {
   background-color: #071629;
